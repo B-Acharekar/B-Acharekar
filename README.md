@@ -10,7 +10,7 @@ I'm currently working on the **2Doist** automated project while learning Python.
 I'm open to collaborations on innovative projects, particularly those involving backend development or automation.
 
 📫 **How to Reach Me**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-link-here/) or via email at [bhushanacharekar1725@gmail.com](mailto:bhushanacharekar1725@gmail.com).
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-link-here/) or via email at [your.email@example.com](mailto:your.email@example.com).
 
 😄 **Pronouns**  
 He/Him
@@ -22,7 +22,7 @@ I’ve completed my **CrowdConnect** project, which enables collaborative proble
 - **Languages**: HTML, CSS, JavaScript, Java, C, C++, Haskell, Prolog, SQL
 - **Databases**: MySQL
 - **Frameworks/Libraries**: React, Tailwind, Bootstrap
-- **Design**: I prefer using pen and paper for design rather than tools like Figma.
+- **Design**: I use both pen and paper and tools like Figma for design.
 
 ---
 
