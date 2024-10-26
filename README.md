@@ -10,7 +10,7 @@ I'm currently working on the **2Doist** automated project while learning Python.
 I'm open to collaborations on innovative projects, particularly those involving backend development or automation.
 
 📫 **How to Reach Me**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-link-here/) or via email at [your.email@example.com](mailto:your.email@example.com).
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-link-here/) or via email at [My ✉️](mailto:bhushanacharekar1725@gmail.com).
 
 😄 **Pronouns**  
 He/Him
