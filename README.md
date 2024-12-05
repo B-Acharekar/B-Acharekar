@@ -1,32 +1,36 @@
+
 # 👋 Hi, I'm Bhushan Acharekar (@B-Acharekar)
 
-👀 **Interests**  
-I'm passionate about backend development, automation, and creating collaborative platforms. I enjoy working with frameworks like Spring Boot and exploring new technologies that can simplify tasks.
+### 👀 **About Me**  
+I’m a versatile developer who enjoys learning new technologies and adapting quickly to different challenges. While I don't specialize in a single area, I have strong experience in **Java**, **web development**, and **database API interaction**. I'm passionate about backend development, automation, and creating collaborative platforms, and I always strive to build efficient, user-friendly solutions.
 
-🌱 **Currently Learning**  
-I'm currently working on the **2Doist** automated project while learning Python.
+### 🌱 **Current Focus**  
+I’m currently working on:
+- **2Doist**: An automated to-do list platform, with a focus on creating a minimalist yet effective UI/UX.
+- **Simple Expense Tracker**: A lightweight app for tracking expenses, with plans to expand into a multi-platform solution (mobile, web, and desktop).
 
-💞️ **Looking to Collaborate On**  
-I'm open to collaborations on innovative projects, particularly those involving backend development or automation.
+I’m also diving deeper into **Python** and backend development.
 
-📫 **How to Reach Me**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-link-here/) or via email at [My ✉️](mailto:bhushanacharekar1725@gmail.com).
+### 💞️ **Looking to Collaborate On**  
+I'm open to collaborating on innovative projects, particularly those involving backend development, automation, web development, or multi-platform solutions. Let’s connect if you’re working on something exciting!
 
-😄 **Pronouns**  
+### 📫 **How to Reach Me**  
+Feel free to reach out through:
+- [LinkedIn](https://www.linkedin.com/in/your-link-here/)
+- 📧 Email: [bhushanacharekar1725@gmail.com](mailto:bhushanacharekar1725@gmail.com)
+
+### 😄 **Pronouns**  
 He/Him
 
-⚡ **Fun Fact**  
-I’ve completed my **CrowdConnect** project, which enables collaborative problem-solving with real-time feedback and user-friendly features! 
-
-### 🔧 Tech Stack  
-- **Languages**: HTML, CSS, JavaScript, Java, C, C++, Haskell, Prolog, SQL
-- **Databases**: MySQL
-- **Frameworks/Libraries**: React, Tailwind, Bootstrap
-- **Design**: I use both pen and paper and tools like Figma for design.
+### ⚡ **Fun Fact**  
+I completed my **CrowdConnect** project, a collaborative problem-solving platform with real-time feedback and a smooth, user-friendly experience!
 
 ---
 
-<!---
-B-Acharekar/B-Acharekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔧 **Tech Stack**  
+- **Languages**: HTML, CSS, JavaScript, Java, C, C++, Haskell, Prolog, Python, SQL  
+- **Databases**: MySQL  
+- **Frameworks/Libraries**: React, Tailwind, Bootstrap  
+- **Backend**: Flask, Spring Boot  
+- **Design**: Figma, Pen & Paper (UI/UX)  
+
