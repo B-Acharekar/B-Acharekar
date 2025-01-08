@@ -28,7 +28,7 @@ I completed my **CrowdConnect** project, a collaborative problem-solving platfor
 ---
 
 ### 🔧 **Tech Stack**  
-- **Languages**: HTML, CSS, JavaScript, Java, C, C++, Haskell, Prolog, Python, SQL  
+- **Languages**: HTML, CSS, JavaScript, Java, C, C++, Python, SQL  
 - **Databases**: MySQL  
 - **Frameworks/Libraries**: React, Tailwind, Bootstrap  
 - **Backend**: Flask, Spring Boot  
