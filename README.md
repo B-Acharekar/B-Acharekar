@@ -1,36 +1,34 @@
+# Hi, I'm Bhushan Acharekar (@B-Acharekar)
 
-# 👋 Hi, I'm Bhushan Acharekar (@B-Acharekar)
+### About Me  
+I'm a developer who enjoys working on both frontend and backend to build functional and efficient applications. I have experience in Flask, MySQL, React, and UI development, and I'm constantly learning new technologies to improve my skills.  
 
-### 👀 **About Me**  
-I’m a versatile developer who enjoys learning new technologies and adapting quickly to different challenges. While I don't specialize in a single area, I have strong experience in **Java**, **web development**, and **database API interaction**. I'm passionate about backend development, automation, and creating collaborative platforms, and I always strive to build efficient, user-friendly solutions.
+Currently, I'm exploring automation, DevOps, and cloud technologies while continuing to refine my full-stack development knowledge.
 
-### 🌱 **Current Focus**  
-I’m currently working on:
-- **2Doist**: An automated to-do list platform, with a focus on creating a minimalist yet effective UI/UX.
-- **Simple Expense Tracker**: A lightweight app for tracking expenses, with plans to expand into a multi-platform solution (mobile, web, and desktop).
+### Current Focus  
+- **VitalFlow** – A health-tracking Android application built using Flutter and MongoDB, designed to provide seamless health monitoring.  
+- **Problem-Solving** – Actively working on Python Q&A challenges on HackerRank, planning to move to another language after mastering the fundamentals.  
+- **Expanding My Tech Stack** – Learning MongoDB, Node.js, and improving my React skills by working on small projects.  
 
-I’m also diving deeper into **Python** and backend development.
+### Skills & Knowledge  
+- **Frontend**: HTML, CSS, JavaScript, React (basic, with documentation support), Tailwind CSS, Bootstrap  
+- **Backend**: Python (Flask), MySQL, RESTful APIs  
+- **Databases**: MySQL, learning MongoDB  
+- **Mobile Development**: Flutter (currently working on an Android app)  
+- **Version Control**: Git, GitHub  
+- **Other**: UI/UX basics, Postman for API testing  
+- **Currently Exploring**: DevOps, Cloud, Automation (just exploring, not fully into it yet)  
 
-### 💞️ **Looking to Collaborate On**  
-I'm open to collaborating on innovative projects, particularly those involving backend development, automation, web development, or multi-platform solutions. Let’s connect if you’re working on something exciting!
+### Looking to Collaborate On  
+I'm open to collaborating on web applications, backend-heavy projects, or full-stack solutions. If you're working on something interesting, feel free to reach out.  
 
-### 📫 **How to Reach Me**  
-Feel free to reach out through:
-- [LinkedIn](https://www.linkedin.com/in/your-link-here/)
-- 📧 Email: [bhushanacharekar1725@gmail.com](mailto:bhushanacharekar1725@gmail.com)
+### How to Reach Me  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-link-here/)  
+- **Email**: [bhushanacharekar1725@gmail.com](mailto:bhushanacharekar1725@gmail.com)  
 
-### 😄 **Pronouns**  
-He/Him
-
-### ⚡ **Fun Fact**  
-I completed my **CrowdConnect** project, a collaborative problem-solving platform with real-time feedback and a smooth, user-friendly experience!
+### Fun Fact
+I enjoy **experimenting with new tech stacks** and constantly push myself to build better, more optimized solutions.  
 
 ---
 
-### 🔧 **Tech Stack**  
-- **Languages**: HTML, CSS, JavaScript, Java, C, C++, Python, SQL  
-- **Databases**: MySQL  
-- **Frameworks/Libraries**: React, Tailwind, Bootstrap  
-- **Backend**: Flask, Spring Boot  
-- **Design**: Figma, Pen & Paper (UI/UX)  
-
+Let's build something great.  
