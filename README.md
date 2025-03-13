@@ -12,7 +12,7 @@ Currently, I'm exploring automation, DevOps, and cloud technologies while contin
 
 ### Skills & Knowledge  
 - **Frontend**: HTML, CSS, JavaScript, React (basic, with documentation support), Tailwind CSS, Bootstrap  
-- **Backend**: Python (Flask), MySQL, RESTful APIs  
+- **Backend**: Python (Flask), JAVA(Spring Boot), RESTful APIs, Basic Jwt Auth  
 - **Databases**: MySQL, learning MongoDB  
 - **Mobile Development**: Flutter (currently working on an Android app)  
 - **Version Control**: Git, GitHub  
