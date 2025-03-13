@@ -23,7 +23,7 @@ Currently, I'm exploring automation, DevOps, and cloud technologies while contin
 I'm open to collaborating on web applications, backend-heavy projects, or full-stack solutions. If you're working on something interesting, feel free to reach out.  
 
 ### How to Reach Me  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-link-here/)  
+- **LinkedIn**: [bhushan-acharekar](https://www.linkedin.com/in/bhushan-acharekar-6a0440225/)  
 - **Email**: [bhushanacharekar1725@gmail.com](mailto:bhushanacharekar1725@gmail.com)  
 
 ### Fun Fact
