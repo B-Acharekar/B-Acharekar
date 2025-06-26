@@ -1,50 +1,92 @@
+
 # Hi, I'm Bhushan Acharekar (@B-Acharekar)
 
 ## 👨‍💻 About Me
-I'm a passionate developer with expertise in both frontend and backend development.  
-Experienced in Flask, MySQL, React, and UI design, I'm continually expanding my knowledge and exploring new technologies.
 
-Currently diving into **Next.js** and **Firebase Authentication**, and building full-stack applications.
+I'm a **fullstack developer** passionate about building scalable, modern web and mobile applications.
+My strength lies in creating clean UIs, powerful backend systems, and seamless user experiences — all while writing efficient, maintainable code.
 
-## 🚀 Current Focus
-- **Problem-Solving** – Actively solving Data Structures and Algorithms (DSA) challenges in **C++** on **LeetCode**.
-- **Expanding Tech Stack** – Learning **Next.js**, integrating **Firebase Authentication**, and building **full-stack** applications with these technologies.
+I’ve worked across the stack, including foundational knowledge of **Cloud**, **DevOps**, and **Operating Systems**, but my core strength is fullstack application development — especially with **React**, **Next.js**, and **MongoDB**.
 
-## 🛠️ Skills & Knowledge
-- **Frontend**: HTML, CSS, JavaScript, React (basic), Tailwind CSS, Bootstrap, **Next.js (Learning)**
-- **Backend**: Python (Flask), Java (Spring Boot), RESTful APIs, **JWT Auth with bcrypt for password hashing**
-- **Databases**: MySQL, MongoDB
-- **Authentication**: **Firebase Authentication**, **JWT Auth** with bcrypt
-- **Mobile Development**: Flutter (Android app development)
-- **Version Control**: Git, GitHub
-- **Other Tools**: UI/UX basics, Postman for API testing
-- **Exploring**: **DevOps**, **Cloud**, **Automation**
+---
 
-## 🌟 Projects
-- **[VitalFlow](#)** – A health-tracking Android app built with **Flutter** and **MongoDB** for seamless health monitoring. [[Project Link](https://github.com/B-Acharekar/vitalflow)]
-- **LeetCode Solutions** – Actively solving DSA challenges in **C++**. Focused on improving problem-solving skills. [[LeetCode Profile Link](https://leetcode.com/u/BhushanAcharekar/)]
+## 🚀 What I’m Currently Focusing On
 
-## 🤝 Looking to Collaborate
-Open to working on web applications, backend-heavy systems, or full-stack projects.  
-Feel free to reach out if you're building something exciting!
+* ✅ **Mastering Fullstack** – Advanced development using **React**, **Next.js**, **Firebase**, and **MongoDB**
+* ⚙️ **DevOps & Cloud Foundations** – Deployments on **AWS**, Docker basics, and CI/CD workflows
+* 📱 **Cross-Platform Development** – Mostly using **React Native**, with occasional use of **Flutter**
+* 🧠 **Problem Solving** – Consistently solving **C++ DSA problems** on **LeetCode**
 
-## 📫 How to Reach Me
-- **LinkedIn**: [bhushan-acharekar](https://www.linkedin.com/in/bhushan-acharekar-6a0440225/)
-- **Email**: [bhushanacharekar1725@gmail.com](mailto:bhushanacharekar1725@gmail.com)
+---
+
+## 🛠️ Tech Stack
+
+### 💪 Fullstack (My Core)
+
+* **Frontend**: React.js, Next.js, Tailwind CSS, JavaScript (Advanced), HTML/CSS, Bootstrap
+* **Backend**: Flask (Python), Express.js (Node.js), REST APIs, Spring Boot (Basics)
+* **Mobile (Cross-Platform)**: **React Native (Primary)**, Flutter (Occasional)
+* **Authentication**: Firebase Auth, JWT + bcrypt
+* **Database**: MongoDB, MySQL, Firebase Realtime DB
+* **State & Logic**: Context API, custom hooks, local storage
+
+### 🔧 Tools & Workflow
+
+* Git, GitHub, Postman, VS Code, Figma, Trello (Agile), Bash scripting
+* Comfortable with Linux terminal, CLI tools, and basic OS-level utilities
+
+---
+
+## 🌟 Featured Projects
+
+### 🩺 [VitalFlow](https://github.com/B-Acharekar/vitalflow)
+
+A health-tracking Android app built with **Flutter + MongoDB**, offering intuitive health logging and performance tracking.
+
+### 🌌 [Solar System Visualizer](https://lnkd.in/g8MnHwi2)
+
+An interactive 3D visualizer built with **Next.js + Three.js**, combining science and design to explore celestial bodies.
+[Live Here](https://solar-visualizer.vercel.app/)
+
+### 🧠 [LeetCode DSA Repo](https://leetcode.com/u/BhushanAcharekar/)
+
+A collection of categorized **C++ LeetCode problems**, focused on improving logic and competitive coding skills.
+
+### 🚧 [Smart-Health-Ops (Ongoing)](https://github.com/B-Acharekar/smart-health-ops)
+
+A role-based health operations system (Patient/Doctor/Admin) using **React**, **Flask**, **MongoDB**, and **JWT Auth**.
+
+---
+
+## 🤝 Let's Collaborate On
+
+* Fullstack apps using **React**, **Next.js**, or **React Native**
+* Web or mobile tools in HealthTech, EdTech, or automation
+* Well-structured backend APIs with JWT-based auth
+* Ongoing or MVP-stage tech products
+
+---
+
+## 📫 Reach Me At
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/bhushan-acharekar-6a0440225/)
+* 📧 [bhushanacharekar1725@gmail.com](mailto:bhushanacharekar1725@gmail.com)
+
+---
 
 ## 🎯 Fun Fact
-I love experimenting with new tech stacks and constantly challenging myself to build better, optimized solutions.
+
+I focus on building apps that aren't just usable — they're **performant, scalable, and delightful** to interact with.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=B-Acharekar&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=B-Acharekar\&label=Profile%20views\&color=0e75b6\&style=flat)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=B-Acharekar&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=B-Acharekar\&theme=default)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Acharekar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Acharekar\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![B-Acharekar's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-Acharekar&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![B-Acharekar's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-Acharekar\&show_icons=true\&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
----
