@@ -56,6 +56,10 @@ A collection of categorized **C++ LeetCode problems**, focused on improving logi
 
 A role-based health operations system (Patient/Doctor/Admin) using **React**, **Flask**, **MongoDB**, and **JWT Auth**.
 
+### 🚀 [Clustria (Ongoing)](https://github.com/Friends-Mini-Projects/clustria-frontend)
+
+A privacy-first cloud file management platform powered by **Next.js**, **Flask**, **MongoDB**, and **AI-based file organization**. Built with support for **ZKE**, **BYOK encryption**, **RBAC**, and a multi-repo architecture under a GitHub Organization.
+
 ---
 
 ## 🤝 Let's Collaborate On
