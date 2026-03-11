@@ -1,20 +1,56 @@
-# 👋 Hi, I'm Bhushan Acharekar
-### Building the future with Scalable Systems & Elegant Code
 
+```
+██████╗ ██╗  ██╗██╗   ██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗██║  ██║██║   ██║██╔════╝██║  ██║██╔══██╗████╗  ██║
+██████╔╝███████║██║   ██║███████╗███████║███████║██╔██╗ ██║
+██╔══██╗██╔══██║██║   ██║╚════██║██╔══██║██╔══██║██║╚██╗██║
+██████╔╝██║  ██║╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+
+# BHUSHAN ACHAREKAR
+
+> **Fullstack Engineer - Systems Builder - Code Minimalist**
+
+Building **scalable systems**, **real-time platforms**,  
+and **interfaces that don't fight the user**.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=B-Acharekar&label=Profile%20Views&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/github/followers/B-Acharekar?label=Follow&style=social" />
 </p>
 
----
-
 ## ⚡ About Me
-I am a **Fullstack Engineer** passionate about bridging the gap between robust backend architecture and intuitive frontend experiences. I thrive on solving complex problems, whether it's optimizing a React Native bridge or deploying scalable microservices.
 
-- 🔭 **Current Focus:** Advanced Cloud Architecture & Real-time Systems.
-- 🛠 **Reliability:** I build with a "Security-First" and "Clean Code" mindset.
-- 🎓 **Always Learning:** Currently diving deeper into System Design Patterns.
-- 💬 **Ask me about:** React Ecosystem, Python automation, or Mobile Dev.
+I'm an **IT Engineering student and Fullstack developer** focused on building practical software systems from the ground up.
+
+I enjoy designing backend systems, building APIs, and turning ideas into working products.
+
+### 🔧 Current Projects
+- **Arogyam** – next version of VitalFlow with improved system design and UI
+- **Nivesha** – financial / market related platform
+- **Bookworm** – reading / book focused application
+- **Clustria** – experimental system project
+
+### 📚 Currently Learning
+- System Design
+- Cloud Architecture
+- Docker
+- DevOps
+- Machine Learning basics
+
+### ⚙️ Problems I Like Solving
+- API architecture
+- Data pipelines
+- automation tools
+- building systems from scratch
+
+### 🧠 Developer Mindset
+> I enjoy building things completely from scratch and understanding how systems actually work internally.
+
+### 🎯 2026 Goal
+- Contribute to meaningful **open-source projects**
+- Build production-level software systems
 
 ---
 
@@ -42,35 +78,40 @@ I am a **Fullstack Engineer** passionate about bridging the gap between robust b
 ---
 
 ## 📊 Performance Metrics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B-Acharekar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B-Acharekar&show_icons=true&theme=tokyonight"
+ />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Acharekar&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=B-Acharekar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=B-Acharekar&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🏆 Achievements & Contributions
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=B-Acharekar&theme=tokyonight&no-frame=true&row=1" />
-</p>
+## 🐍 Contribution Activity
 
-### 🐍 Activity Pipeline
 <p align="center">
-  <img src="https://raw.githubusercontent.com/B-Acharekar/B-Acharekar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img alt="GitHub contribution snake animation"
+       src="https://raw.githubusercontent.com/B-Acharekar/B-Acharekar/output/github-contribution-grid-snake.svg"
+       width="100%">
 </p>
-
 ---
 
 ## 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhushan Acharekar" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bhushan Acharekar" height="30" width="40" /></a>
-<a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email" height="30" width="30" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/bhushan-acharekar-6a0440225" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://bhushan-acharekar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:bhushanacharekar1725@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" alt="Email"/>
+  </a>
 </p>
 
 ---
